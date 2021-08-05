@@ -65,7 +65,7 @@
     "yorkie": "2.0.0"
   },
   "dependencies": {
-    "@koa/router": "10.0.0",
+    "@koa/router": "10.1.0",
     "@postlight/mercury-parser": "2.2.0",
     "@sentry/node": "6.7.2",
     "aes-js": "3.1.2",
@@ -89,7 +89,7 @@
     "iconv-lite": "0.6.2",
     "instagram-private-api": "1.44.1",
     "ioredis": "4.27.2",
-    "ip-regex": "4.2.0",
+    "ip-regex": "4.3.0",
     "is-localhost-ip": "1.4.0",
     "jsdom": "16.5.3",
     "json-bigint": "1.0.0",
