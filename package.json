@@ -37,7 +37,7 @@
   "homepage": "https://github.com/DIYgod/RSSHub#readme",
   "devDependencies": {
     "@napi-rs/pinyin": "^1.6.1",
-    "@types/cheerio": "0.22.24",
+    "@types/cheerio": "0.22.30",
     "@types/got": "9.6.11",
     "@types/koa": "2.13.1",
     "@vuepress/plugin-back-to-top": "1.8.2",
@@ -89,7 +89,7 @@
     "iconv-lite": "0.6.2",
     "instagram-private-api": "1.44.1",
     "ioredis": "4.27.2",
-    "ip-regex": "4.2.0",
+    "ip-regex": "4.3.0",
     "is-localhost-ip": "1.4.0",
     "jsdom": "16.5.3",
     "json-bigint": "1.0.0",
